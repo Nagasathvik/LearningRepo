@@ -2,4 +2,4 @@
 
 This is my first Git repository
 <br>
-Checking the Status
+Author - Naga Sathvik, BTech
